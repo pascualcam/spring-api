@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "springAPI",
+			"path": "../../../../../../../.."
+		},
+		{
+			"name": "mySpringProject",
+			"path": "../../../../../../../../../../../Downloads/mySpringProject"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
